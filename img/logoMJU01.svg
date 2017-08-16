@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg3002"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logoMJU01.svg">
+  <metadata
+     id="metadata3017">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3015" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview3013"
+     showgrid="false"
+     inkscape:zoom="1.06"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3002" />
+  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+  <path
+     id="svg_5"
+     d="m 30.292916,62.003003 83.147324,0 c 0,0 73.76983,2.635443 8.75235,8.345571 -21.67249,1.903405 -43.344965,3.806723 -65.017455,5.710128"
+     stroke-linecap="null"
+     stroke-linejoin="null"
+     inkscape:connector-curvature="0"
+     style="fill:#000080;stroke:#331212;stroke-width:1.77540731000000010;stroke-dasharray:none" />
+  <text
+     xml:space="preserve"
+     font-size="24"
+     id="svg_7"
+     y="44.602699"
+     x="111.22272"
+     stroke-linecap="null"
+     stroke-linejoin="null"
+     style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000080;stroke:#331212;stroke-width:0;stroke-dasharray:none;font-family:Script MT Bold;-inkscape-font-specification:'Script MT Bold, Bold'"
+     transform="scale(0.88553245,1.1292641)"
+     sodipodi:linespacing="125%">M.J.U.</text>
+  <ellipse
+     style="fill:#000000;stroke:#331212;stroke-dasharray:none"
+     sodipodi:ry="15"
+     sodipodi:rx="42.499996"
+     sodipodi:cy="67"
+     sodipodi:cx="51.499996"
+     d="m 93.999992,67 c 0,8.284271 -19.027896,15 -42.499996,15 C 28.027896,82 9,75.284271 9,67 9,58.715729 28.027896,52 51.499996,52 c 23.4721,0 42.499996,6.715729 42.499996,15 z"
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     cx="51.499996"
+     cy="67"
+     id="svg_9"
+     rx="42.499996"
+     ry="15"
+     transform="matrix(0.57427866,0,0,1.14028,3.5889632,2.6199949)" />
+  <ellipse
+     style="fill:#000080;stroke:#dbcbcb;stroke-width:0;stroke-dasharray:none"
+     sodipodi:ry="18"
+     sodipodi:rx="17"
+     sodipodi:cy="51"
+     sodipodi:cx="44"
+     d="m 61,51 c 0,9.941125 -7.611159,18 -17,18 -9.388841,0 -17,-8.058875 -17,-18 0,-9.941125 7.611159,-18 17,-18 9.388841,0 17,8.058875 17,18 z"
+     stroke-linejoin="null"
+     stroke-linecap="null"
+     cx="44"
+     cy="51"
+     id="svg_11"
+     rx="17"
+     ry="18"
+     transform="matrix(0.6918386,0,0,1.4055699,2.6193719,-11.086632)" />
+</svg>
