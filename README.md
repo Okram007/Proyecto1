@@ -4,7 +4,7 @@ Creación de Hoja de Vida Digital
 
 Objetivo:
 
-Desarrolla mi Hoja de Vida Digital usando el contenido del primer curso Fundamentos HTML, en la cual se ponga en práctica lo aprendido 
+Desarrollar mi "Hoja de Vida Digital" usando el contenido del primer curso Fundamentos HTML, en la cual ponga en práctica lo aprendido 
 en el curso Fundamentos HTML.  Los requerimientos que debe cumplir el proyecto son:
 
 1-	Página “Inicio”:
