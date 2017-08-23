@@ -5,17 +5,25 @@
   <meta name="author" content="Marco Jimenez Ugalde">
   <meta description="Proyecto Curso 1">
   <meta name="viewport" content="width=width-device, user-scalable=no">
-	<title>Hoja de Vida</title>
+	<title>Hoja de Vida Marco Jiménez Ugalde</title>
+  <link rel="stylesheet" href="css/estilos.css">
 </head>
 
-<body>
-
-  <header>
+<!--
+Le incluiré a body un ID para poder cambiar el tipo de letra de toda
+la hoja de vida
+-->
+<body id="contenedor">
+  <!--
+  Al darle al encabezado un ID puedo posicionar tanto titulo como imágenes
+  donde Yo lo desee desde el archivo de estilos CSS
+  -->
+  <header id="encabezado">
     <svg width="180" height="60" viewbox="70 0 120 100">
       <image xlink:href="img\logoMJU01.svg"></image>
     </svg>
   	<h1>Hoja de Vida</h1>
-    <h2>Marco Jiménez</h2>
+    <h2>Marco Jiménez Ugalde</h2>
   </header>
 
   <nav>
@@ -26,7 +34,11 @@
     </ul>
   </nav>
 
-  <section>
+<!--
+En ésta sección se incluirá la información personal.
+-->
+
+  <section id="Info_personal">
     <h3>Información Personal</h3>
     <img src="img\fotoMJU0.jpg" alt="Marco Jiménez" title="Marco Jiménez" width="120" height="130"></image>
 
@@ -38,6 +50,14 @@
       <li><strong>Lugar de Nacimiento: </strong>San José, Costa Rica</li>
     </ul><br>
 
+  </section>
+
+  <!--
+  En ésta sección se incluirá información de mi perfil, incluyendo
+  destrezas y habilidades.
+  -->
+
+  <section id=mi_perfil>
     <h3>Información de Perfil</h3>
     <ul>
       <li><strong>Perfil: </strong>Ingeniero Eléctrico; Mestría en Computación-Telemática</li><br>
@@ -51,7 +71,6 @@
           <li><strong>Inglés</strong></li>
         </ul>
      </ul>
-
   </section>
   <br>
   <footer>
